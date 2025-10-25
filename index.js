@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
     const app = document.getElementById('app');
     const QUESTIONS_URL = '/questions.json';
-    const STORAGE_KEY = 'gf_answers';
-    const INDEX_KEY = 'gf_q_index';
+    const STORAGE_KEY = 'answers';
+    const INDEX_KEY = 'q_index';
 
     let questions = [];
     let currentIndex = parseInt(localStorage.getItem(INDEX_KEY), 10);
@@ -158,5 +158,3 @@ document.addEventListener('DOMContentLoaded', () => {
 
     init();
 });
-
-let a;
