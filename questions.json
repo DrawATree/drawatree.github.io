@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "question": "Quand tu ouvres un livre, tu veux surtout...",
+        "choices": [
+            { "id": "q1a", "text": "Ressentir des émotions fortes."},
+            { "id": "q1b", "text": "Partir dans un univers différent." },
+            { "id": "q1c", "text": "Apprendre quelque chose de nouveau." },
+            { "id": "q1d", "text": "Te détendre et passer un bon moment." }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Tu choisis un livre surtout en fonction...",
+        "choices": [
+            { "id": "q2a", "text": "De son histoire touchante ou marquante." },
+            { "id": "q2b", "text": "De son univers ou de son style original." },
+            { "id": "q2c", "text": "De son sujet ou de ce qu'il t'apportera." },
+            { "id": "q2d", "text": "De s'il a l'air facile à lire et divertissant." }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Ce que tu préfères dans un livre, c'est...",
+        "choices": [
+            { "id": "q3a", "text": "M'attacher aux personnages, ressentir ce qu'ils vivent."},
+            { "id": "q3b", "text": "M'évader dans un monde ou une époque différente."},
+            { "id": "q3c", "text": "Réfléchir, découvrir des idées ou des faits."},
+            { "id": "q3d", "text": "Rire, me distraire, passer le temps agréablement."}
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Quelle phrase te ressemble le plus?",
+        "choices": [
+            { "id": "q4a", "text": "J'ai besoin d'être touchée pour aimer un livre."},
+            { "id": "q4b", "text": "Je veux que l'histoire me transporte loin de ma réalité."},
+            { "id": "q4c", "text": "Si un livre ne m'apprend rien, je m'ennuie."},
+            { "id": "q4d", "text": "Je lis pour me détendre et rigoler, c'est tout."}
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Qu'est-ce qui t'empêche de lire plus souvent?",
+        "choices": [
+            { "id": "q5a", "text": "Je ne trouve pas souvent d'histoires qui me touchent vraiment."},
+            { "id": "q5b", "text": "Les livres sont trop longs ou prennent trop de temps."},
+            { "id": "q5c", "text": "Je n'arrive pas à me concentrer longtemps sur un texte."},
+            { "id": "q5d", "text": "Je préfère d'autres formats (vidéo, podcast...)."}
+        ]
+    },
+    {
+        "id": 6,
+        "question": "As-tu une routine de lecture?",
+        "choices": [
+            { "id": "q6a", "text": "Oui, j'aime prendre un moment calme chaque jour."},
+            { "id": "q6b", "text": "Non, je lis surtout en vacances ou quand j'ai du temps libre."},
+            { "id": "q6c", "text": "Je lis à travers d'autres formats (articles, podcasts, etc.)."},
+            { "id": "q6d", "text": "Je lis quand je tombe sur quelque chose d'accrocheur."}
+        ]
+    }
+]
